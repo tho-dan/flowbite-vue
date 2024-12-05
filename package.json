@@ -1,9 +1,12 @@
 {
-  "name": "flowbite-vue",
+  "name": "@tho-dan/flowbite-vue",
   "version": "0.1.6",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/themesberg/flowbite-vue.git"
+    "url": "git+https://github.com/tho-dan/flowbite-vue.git"
   },
   "author": "themesberg",
   "license": "MIT",
@@ -65,7 +68,7 @@
     "prettier": "3.2.5",
     "tsc-alias": "1.8.10",
     "typescript": "5.4.5",
-    "vite": "5.2.12",
+    "vite": "5.4.6",
     "vitepress": "1.2.2",
     "vitest": "1.6.0",
     "vue-tsc": "2.0.19"
